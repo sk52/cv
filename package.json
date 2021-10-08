@@ -1,0 +1,17 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "CV",
+  "scripts": {
+    "generate:pdf": "node ./node_modules/md-to-pdf/dist/cli.js README.md && mv README.pdf Samuel_King_CV.pdf"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sk52/cv.git"
+  },
+  "author": "Samuel King",
+  "homepage": "https://github.com/sk52/cv#readme",
+  "dependencies": {
+    "md-to-pdf": "^5.0.0"
+  }
+}
