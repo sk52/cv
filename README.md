@@ -61,16 +61,14 @@ Tools and technologies: Java, MATLAB
 **Cardiff University (September 2013 - July 2018)**
 
 - MEng, Mechanical Engineering, First Class Honours
-
-## Hobbies and Interests
-
-- Keen cyclist: completed several self-supported bike rides, most recently a 270 mile ride in 24 hours from London to Paris (2019), and a 1,000 mile ride from Berlin to Cardiff in 2018
-- Triathlon: train and compete in various distances, most recently completed IRONMAN 70.3 Weymouth
+- School Prize for Best 3rd Year Project
 
 ## Side Projects
 
 - Web development blog [sk52.github.io](https://sk52.github.io) - a Gatsby starter blog used as a testing ground for learning new things, and then writing about them as blog posts. 
 
-## LinkedIn
 
-To find out more about my experience or to get in touch, find me on [LinkedIn](https://www.linkedin.com/in/samuelking94)
+---
+
+
+[<img src="./resources/linkedin.png" alt="LinkedIn" style="display: block; margin: auto; width: 35px;"/>](https://www.linkedin.com/in/samuelking94)
