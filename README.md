@@ -8,7 +8,7 @@
 </p>
 
 <p style="text-align: justify;">
-    A responsible and motivated Software Engineer, I have a passion for clean and well-tested code. Experience building and maintaining enterprise web applications in the Professional Services and E-commerce space. I am a skilled communicator and team player, comfortable integrating into new teams and working to deliver timely and effective solutions. I drive my own learning and personal development, experimenting with new technologies to expand my skill set.
+    I am a responsible and motivated Software Engineer, with a passion for continuous learning and improvement. As a skilled and adaptable communicator, I thrive in a collaborative team setting. I drive my own learning and personal development, experimenting with new technologies to expand my skill set.
 </p>
 
 ## Relevant Experience
@@ -18,9 +18,10 @@
 Working in the Shared Services team to replace a legacy monolith with a set of decoupled microservices, serving downstream tech teams.
 
 - Design and delivery of an event driven microservice architecture, using Kafka for messaging
-- Implemented custom libraries to handle eventstore and kafka integrations within NestJS
-- Reduced API times from circa 30s to 25ms
-- Interacting with business stakeholders to gather information required for the creation of a migration plan
+- Implement custom libraries to handle eventstore and kafka integrations within NestJS
+- Reduce API times from circa 30s to 25ms
+- Interact with business stakeholders to gather information required for the creation of a migration plan
+- Design and document system architecture using diagrams, break down key pieces of work for the team
 - Lead planning and refinement sessions, ensuring that the team has enough tasks to work on in upcoming sprints
 - Present regularly at team knowledge share sessions, advocate for continuous improvement, new technologies, and the use of agile methodologies
 - Give technical presentations to other teams (microservice architecture demonstration)
@@ -72,8 +73,3 @@ Working in the Shared Services team to replace a legacy monolith with a set of d
 
 - MEng, Mechanical Engineering, First Class Honours
 - School Prize for Best 3rd Year Project (Development and Application of a Bees Algorithm Optimisation Module)
-
----
-
-
-[<img src="./resources/linkedin.png" alt="LinkedIn" style="display: block; margin: auto; width: 35px;"/>](https://www.linkedin.com/in/samuelking94)
