@@ -28,7 +28,7 @@ Working in the Shared Services team to replace a legacy monolith with a set of d
 - Support the hiring process, conducting interviews for Node.js positions
 - Assist with onboarding new team members, helping to develop and mentor engineers
 
-**Tools and technologies**: JavaScript, TypeScript, NestJS, GraphQL, Avro, Kafka, Postgres, MongoDB, Gremlin, Neptune, Jest, AWS, Jenkins, GitHub Actions, Docker
+**Tools and technologies**: TypeScript, NestJS, GraphQL, Avro, Kafka, Postgres, DynamoDB, Gremlin, Neptune, Jest, AWS, Jenkins, GitHub Actions, Docker
 
 ### Accenture, Software Engineer (October 2019 - May 2021)
 
@@ -63,11 +63,6 @@ Working in the Shared Services team to replace a legacy monolith with a set of d
 - Conducting mock interviews on a weekly basis to prepare students for their first developer roles
 
 ## Education
-
-**Makers Academy (October 2019 - December 2019)**
-
-- Intensive 12-week web development course at Makers Academy in London
-- Pair programming, team projects, TDD, agile methodologies, OOP
 
 **Cardiff University (September 2013 - July 2018)**
 
